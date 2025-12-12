@@ -1,0 +1,109 @@
+.idea
+
+# Object files
+pokeheartgold/*.nds
+
+# Compilers
+# pokeheartgold/tools/mwccarm/**
+
+# SDK
+# pokeheartgold/tools/bin/**
+
+# Build folder
+pokeheartgold/build/**
+pokeheartgold/sub/build/**
+
+# CLion folders
+pokeheartgold/.idea/
+pokeheartgold/cmake-build-debug/
+
+# VSCode folder
+pokeheartgold/.vscode/
+
+# "cmake.buildDirectory": "${workspaceFolder}/build-cmake-${buildType}"
+pokeheartgold/build-cmake-*
+
+# ROM
+pokeheartgold/*.srl
+
+# Tool executables
+#pokeheartgold/*.exe
+
+# Generated files
+pokeheartgold/*.4bpp
+pokeheartgold/*.lz
+pokeheartgold/*.gbapal
+
+# For asmdiff
+pokeheartgold/*/baserom.*
+pokeheartgold/*.dump
+
+# For decomp.me
+pokeheartgold/ctx.c
+
+#pokeheartgold/*.lcf.template
+pokeheartgold/*.lcf
+#pokeheartgold/*.response.template
+pokeheartgold/*.response
+
+# Working files
+pokeheartgold/overlays/*/module_*.s
+pokeheartgold/overlays/*/module_*.sbin
+pokeheartgold/overlays/*/module_*.cfg
+
+pokeheartgold/*.sbin
+pokeheartgold/*.bnr
+pokeheartgold/*.nbfp
+pokeheartgold/*.nbfc
+
+# Dism scripts
+pokeheartgold/dism.sh
+pokeheartgold/asmdiff.sh
+
+# Symbols CSV
+pokeheartgold/symbols.csv
+
+# NARCs
+pokeheartgold/*.narc
+pokeheartgold/*.arc
+pokeheartgold/files/**/*.c
+pokeheartgold/*.o
+pokeheartgold/*.naix
+pokeheartgold/*.a
+
+# Utilities
+pokeheartgold/ntruncompbw
+pokeheartgold/*.elf
+pokeheartgold/cmake-build-*
+pokeheartgold/*.sbin_LZ
+pokeheartgold/*.diff
+
+pokeheartgold/*.dSYM
+
+# MacOS garbage
+pokeheartgold/.DS_Store
+
+# Depfiles
+pokeheartgold/*.d
+
+pokeheartgold/diff.txt
+
+# Save files
+pokeheartgold/*.dsv
+pokeheartgold/*.sav
+
+# Savestate files
+pokeheartgold/*.ds[0-9]
+pokeheartgold/*.dst
+pokeheartgold/*.ml[0-9]
+pokeheartgold/*.mln
+
+# clangd
+pokeheartgold/.cache
+pokeheartgold/compile_commands.json
+
+# python
+pokeheartgold/pyscripts/
+pokeheartgold/__pycache__
+pokeheartgold/.venv/
+pokeheartgold/*.pyc

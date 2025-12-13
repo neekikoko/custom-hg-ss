@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0545_T20R0201_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, {STRVAR_1 3, 0, 0}!\nYou’re finally awake.\fYour friend Lyra was just here.\rShe was playing hide-and-seek with\nher MARILL.\rOh, I almost forgot! Our acquaintance,\nProfessor Elm, was looking for you.\rHe said he had a favor to ask of you.\rYou know where the lab is, right?\nIt’s right next door to us.\rBy the way, do you have everything\nyou need to go out?\fHere, use this Bag to carry things...\r</language>
+		<language name="English">Hi, {STRVAR_1 3, 0, 0}!\nYou’re finally awake, chu!\fYour friend Lyra was just here.\rShe was playing hide-and-seek with\nher MARILL.\rOh, I almost forgot! Our acquaintance,\nProfessor Elm, was looking for you.\rHe said he had a favor to ask of you.\rYou know where the lab is, right?\nIt’s right next door to us.\rBy the way, do you have everything\nyou need to go out?\fHere, use this Bag to carry things...\r</language>
 	</row>
 	<row id="msg_0545_T20R0201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>

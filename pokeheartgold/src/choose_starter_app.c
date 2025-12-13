@@ -306,8 +306,8 @@ BOOL ChooseStarter_Init(OverlayManager *ovy, int *state_p) {
 
 static const int sSpecies[] = {
     SPECIES_CHIKORITA,
+    SPECIES_CYNDAQUIL,
     SPECIES_CLEFFA,
-    SPECIES_TOTODILE,
 };
 
 BOOL ChooseStarter_Main(OverlayManager *ovy, int *state) {

@@ -44,8 +44,8 @@ static BOOL CreateStarter(TaskManager *taskManager) {
         {
             const int species[] = {
                 SPECIES_CHIKORITA,
+                SPECIES_CYNDAQUIL,
                 SPECIES_CLEFFA,
-                SPECIES_TOTODILE,
             };
             mapsec = MapHeader_GetMapSec(fieldSystem->location->mapId); // sp14
 

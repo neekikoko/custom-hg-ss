@@ -1,0 +1,149 @@
+
+
+			*** ELF HEADER ***
+
+ident[EI_CLASS] = 1
+ident[EI_DATA]  = 1
+ident[EI_VERS]  = 1
+type            = 1
+machine         = 050 (EM_ARM)
+version         = 1
+entry           = 0x00000000
+phoff           = 0x00000000
+shoff           = 0x00000270
+flags           = 0x02100000 ( )
+ehsize          = 52
+phentsize       = 0
+phnum           = 0
+shentsize       = 40
+shnum           = 9
+shstrndx        = 3
+
+
+			*** SECTION HEADER TABLE ***
+
+no   offset      size        flags       addr        type        name
+     link        info        addralign   entsize
+
+1    0x00000040  0x000000B0  0x00000000  0x00000000  SYMTAB      .symtab
+     2           5           0           16        
+2    0x000000F0  0x0000006C  0x00000000  0x00000000  STRTAB      .strtab
+     0           0           0           0         
+3    0x00000160  0x0000004E  0x00000000  0x00000000  STRTAB      .shstrtab
+     0           0           0           0         
+4    0x000001B0  0x00000023  0x00000000  0x00000000  PROGBITS    .comment
+     0           0           0           0         
+5    0x000001E0  0x0000000C  0x00000002  0x00000000  PROGBITS    .exceptix
+     0           0           4           0         
+6    0x000001F0  0x0000000C  0x00000000  0x00000000  RELA        .rela.exceptix
+     1           5           0           12        
+7    0x00000200  0x00000026  0x00000006  0x00000000  PROGBITS    .text
+     0           0           4           0         
+8    0x00000230  0x0000003C  0x00000000  0x00000000  RELA        .rela.text
+     1           7           0           12        
+
+
+			*** SYMBOL TABLE (.symtab) ***
+
+no     value       size        bind    type     other      shndx          name
+
+1      0x00000000  0x00000000  LOCAL   FUNC     0x00       .text          $t
+2      0x00000000  0x00000000  LOCAL   SECTION  0x00       .exceptix      .exceptix
+3      0x00000000  0x0000000C  LOCAL   OBJECT   0x00       .exceptix      @EX@sub_20051F4
+4      0x00000000  0x00000000  LOCAL   SECTION  0x00       .text          .text
+5      0x00000000  0x00000026  GLOBAL  FUNC     0x00       .text          sub_20051F4
+6      0x00000000  0x00000000  GLOBAL  NOTYPE   0x00       UNDEF          sub_20048D0
+7      0x00000000  0x00000000  GLOBAL  NOTYPE   0x00       UNDEF          sub_2004018
+8      0x00000000  0x00000000  GLOBAL  NOTYPE   0x00       UNDEF          sub_2003FF4
+9      0x00000000  0x00000000  GLOBAL  NOTYPE   0x00       UNDEF          sub_20C3980
+10     0x00000000  0x00000000  GLOBAL  NOTYPE   0x00       UNDEF          sub_200526C
+
+
+			*** STRING TABLE (.strtab) ***
+
+0x00000000:  
+0x00000001:  .exceptix
+0x0000000B:  @EX@sub_20051F4
+0x0000001B:  sub_20051F4
+0x00000027:  .text
+0x0000002D:  sub_20048D0
+0x00000039:  sub_2004018
+0x00000045:  sub_2003FF4
+0x00000051:  sub_20C3980
+0x0000005D:  sub_200526C
+0x00000069:  $t
+
+
+			*** STRING TABLE (.shstrtab) ***
+
+0x00000000:  
+0x00000001:  .symtab
+0x00000009:  .strtab
+0x00000011:  .shstrtab
+0x0000001B:  .comment
+0x00000024:  .exceptix
+0x0000002E:  .rela.exceptix
+0x0000003D:  .text
+0x00000043:  .rela.text
+
+
+			*** INITIALIZED DATA (.comment) ***
+
+Header:
+  Section Alignment : 0
+  Section Size      : 35
+0x00000000:  4D 65 74 72 6F 77 65 72 6B 73 20 43 2F 43 2B 2B  'Metrowerks C/C++'
+0x00000010:  20 66 6F 72 20 41 52 4D 20 33 2E 30 2E 30 2E 31  ' for ARM 3.0.0.1'
+0x00000020:  33 36 00                                         '36.'
+
+
+			*** EXCEPTION INDEX (.exceptix) ***
+
+@EX@sub_20051F4:
+		Function Address:        00000000
+		Function Size:           00000026
+		Saved Registers:         {r4,r5,r6,lr}
+		Frame Size:              16
+		Instruction Set:         Thumb
+		Has Flushback Area:      No
+		Has Frame Pointer:       No
+
+
+			*** RELOCATIONS (.rela.exceptix) ***
+
+no     type                  offset      addend      symbol
+
+0      R_ARM_ABS32           0x00000000  0x00000000  sub_20051F4
+
+
+			*** EXECUTABLE CODE (.text) ***
+
+Label		  Opcode      Operands                    Comment
+
+0x00000000                sub_20051F4:
+0x00000000  0xB570                 push        {r4-r6,lr}
+0x00000002  0x1C06                 mov         r6,r0
+0x00000004  0xF800F000             bl          sub_20048D0
+0x00000008  0xF800F000             bl          sub_2004018
+0x0000000C  0x1C05                 mov         r5,r0
+0x0000000E  0xF800F000             bl          sub_2003FF4
+0x00000012  0x1C31                 mov         r1,r6
+0x00000014  0xF800F000             bl          sub_20C3980
+0x00000018  0x1C04                 mov         r4,r0
+0x0000001A  0x1C30                 mov         r0,r6
+0x0000001C  0x1C29                 mov         r1,r5
+0x0000001E  0xF800F000             bl          sub_200526C
+0x00000022  0x1C20                 mov         r0,r4
+0x00000024  0xBD70                 pop         {r4-r6,pc}
+
+
+			*** RELOCATIONS (.rela.text) ***
+
+no     type                  offset      addend      symbol
+
+0      R_ARM_THM_PC22        0x00000004  0xFFFFFFFC  sub_20048D0
+1      R_ARM_THM_PC22        0x00000008  0xFFFFFFFC  sub_2004018
+2      R_ARM_THM_PC22        0x0000000E  0xFFFFFFFC  sub_2003FF4
+3      R_ARM_THM_PC22        0x00000014  0xFFFFFFFC  sub_20C3980
+4      R_ARM_THM_PC22        0x0000001E  0xFFFFFFFC  sub_200526C
+

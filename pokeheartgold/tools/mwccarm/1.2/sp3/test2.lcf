@@ -1,0 +1,69 @@
+#---------------------------------------------------------------------------
+#  Project:  NitroSDK - tools - makelcf
+#  File:     ARM9-TS-C.lcf.template
+#
+#  Copyright 2003-2005 Nintendo.  All rights reserved.
+#
+#  These coded instructions, statements, and computer programs contain
+#  proprietary information of Nintendo of America Inc. and/or Nintendo
+#  Company Ltd., and are protected by Federal copyright law.  They may
+#  not be disclosed to third parties or copied or duplicated in any form,
+#  in whole or in part, without the prior written consent of Nintendo.
+#
+#  $Log: ARM9-TS-C.lcf.template,v $
+#  Revision 1.1  2005/09/05 01:38:31  yasu
+#  Record template before editing tags
+#
+#  Revision 1.11  2005/08/26 11:22:16  yasu
+#  overlay support for ITCM/DTCM
+#
+#  Revision 1.10  2005/06/20 12:29:20  yasu
+#  Changed Surffix to Suffix
+#
+#  Revision 1.9  06/14/2005 10:03:42  yada
+#  fix around minus value of SDK_STACKSIZE
+#
+#  Revision 1.8  04/13/2005 13:52:22  terui
+#  Change SDK_AUTOLOAD_DTCM_START 0x027c0000 -> 0x027e0000
+#
+#  Revision 1.7  2005/03/25 12:54:59  yasu
+#  Include .version section
+#
+#  Revision 1.6  2005/01/14 03:35:32  yasu
+#  Support sinit
+#
+#  Revision 1.5  2004/11/05 04:23:32  yasu
+#  Add OverlayTable digest
+#
+#  Revision 1.4  2004/10/03 02:00:56  yasu
+#  Output component file list for compstatic tool
+#
+#  Revision 1.3  2004/09/09 11:49:20  yasu
+#  Support compstatic in default
+#
+#  Revision 1.2  2004/09/09 03:15:45  yasu
+#  Fix typo
+#
+#  Revision 1.1  2004/09/01 07:49:39  yasu
+#  Support NITRO_COMPRESS
+#
+#  $NoKeywords: $
+#---------------------------------------------------------------------------
+MEMORY {
+    header (RWX) : ORIGIN=0, LENGTH=0
+    test (RWX) : ORIGIN=0, LENGTH=0
+}
+
+SECTIONS {
+    .header:{
+	    rom_header.o (.text)
+	} > header
+
+    .test:{
+        test2.o (.text)
+		test2.o (.data)
+		test3.o (.text)
+		test3.o (.data)
+    } > test
+}
+

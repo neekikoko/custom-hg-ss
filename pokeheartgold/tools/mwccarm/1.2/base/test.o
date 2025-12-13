@@ -1,0 +1,151 @@
+
+
+			*** ELF HEADER ***
+
+ident[EI_CLASS] = 1
+ident[EI_DATA]  = 1
+ident[EI_VERS]  = 1
+type            = 1
+machine         = 050 (EM_ARM)
+version         = 1
+entry           = 0x00000000
+phoff           = 0x00000000
+shoff           = 0x000002A0
+flags           = 0x02100000 ( )
+ehsize          = 52
+phentsize       = 0
+phnum           = 0
+shentsize       = 40
+shnum           = 9
+shstrndx        = 3
+
+
+			*** SECTION HEADER TABLE ***
+
+no   offset      size        flags       addr        type        name
+     link        info        addralign   entsize
+
+1    0x00000040  0x000000B0  0x00000000  0x00000000  SYMTAB      .symtab
+     2           5           0           16        
+2    0x000000F0  0x00000091  0x00000000  0x00000000  STRTAB      .strtab
+     0           0           0           0         
+3    0x00000190  0x0000004E  0x00000000  0x00000000  STRTAB      .shstrtab
+     0           0           0           0         
+4    0x000001E0  0x00000022  0x00000000  0x00000000  PROGBITS    .comment
+     0           0           0           0         
+5    0x00000210  0x0000000C  0x00000002  0x00000000  PROGBITS    .exceptix
+     0           0           4           0         
+6    0x00000220  0x0000000C  0x00000000  0x00000000  RELA        .rela.exceptix
+     1           5           0           12        
+7    0x00000230  0x0000002A  0x00000006  0x00000000  PROGBITS    .text
+     0           0           4           0         
+8    0x00000260  0x0000003C  0x00000000  0x00000000  RELA        .rela.text
+     1           7           0           12        
+
+
+			*** SYMBOL TABLE (.symtab) ***
+
+no     value       size        bind    type     other      shndx          name
+
+1      0x00000000  0x00000000  LOCAL   FUNC     0x00       .text          $t
+2      0x00000000  0x00000000  LOCAL   SECTION  0x00       .exceptix      .exceptix
+3      0x00000000  0x0000000C  LOCAL   OBJECT   0x00       .exceptix      @EX@_Z11sub_20051F4i
+4      0x00000000  0x00000000  LOCAL   SECTION  0x00       .text          .text
+5      0x00000000  0x0000002A  GLOBAL  FUNC     0x00       .text          _Z11sub_20051F4i
+6      0x00000000  0x00000000  GLOBAL  NOTYPE   0x00       UNDEF          _Z11sub_20048D0i
+7      0x00000000  0x00000000  GLOBAL  NOTYPE   0x00       UNDEF          _Z11sub_2004018i
+8      0x00000000  0x00000000  GLOBAL  NOTYPE   0x00       UNDEF          _Z11sub_2003FF4i
+9      0x00000000  0x00000000  GLOBAL  NOTYPE   0x00       UNDEF          _Z11sub_20C3980ii
+10     0x00000000  0x00000000  GLOBAL  NOTYPE   0x00       UNDEF          _Z11sub_200526Cii
+
+
+			*** STRING TABLE (.strtab) ***
+
+0x00000000:  
+0x00000001:  .exceptix
+0x0000000B:  @EX@_Z11sub_20051F4i
+0x00000020:  _Z11sub_20051F4i
+0x00000031:  .text
+0x00000037:  _Z11sub_20048D0i
+0x00000048:  _Z11sub_2004018i
+0x00000059:  _Z11sub_2003FF4i
+0x0000006A:  _Z11sub_20C3980ii
+0x0000007C:  _Z11sub_200526Cii
+0x0000008E:  $t
+
+
+			*** STRING TABLE (.shstrtab) ***
+
+0x00000000:  
+0x00000001:  .symtab
+0x00000009:  .strtab
+0x00000011:  .shstrtab
+0x0000001B:  .comment
+0x00000024:  .exceptix
+0x0000002E:  .rela.exceptix
+0x0000003D:  .text
+0x00000043:  .rela.text
+
+
+			*** INITIALIZED DATA (.comment) ***
+
+Header:
+  Section Alignment : 0
+  Section Size      : 34
+0x00000000:  4D 65 74 72 6F 77 65 72 6B 73 20 43 2F 43 2B 2B  'Metrowerks C/C++'
+0x00000010:  20 66 6F 72 20 41 52 4D 20 32 2E 30 2E 30 2E 37  ' for ARM 2.0.0.7'
+0x00000020:  32 00                                            '2.'
+
+
+			*** EXCEPTION INDEX (.exceptix) ***
+
+@EX@_Z11sub_20051F4i:
+		Function Address:        00000000
+		Function Size:           0000002A
+		Saved Registers:         {r4,r5,r6,lr}
+		Frame Size:              16
+		Instruction Set:         Thumb
+		Has Flushback Area:      No
+		Has Frame Pointer:       No
+
+
+			*** RELOCATIONS (.rela.exceptix) ***
+
+no     type                  offset      addend      symbol
+
+0      R_ARM_ABS32           0x00000000  0x00000000  _Z11sub_20051F4i
+
+
+			*** EXECUTABLE CODE (.text) ***
+
+Label		  Opcode      Operands                    Comment
+
+0x00000000                _Z11sub_20051F4i:
+0x00000000  0xB570                 push        {r4-r6,lr}
+0x00000002  0x1C05                 mov         r5,r0
+0x00000004  0xF800F000             bl          _Z11sub_20048D0i
+0x00000008  0xF800F000             bl          _Z11sub_2004018i
+0x0000000C  0x1C04                 mov         r4,r0
+0x0000000E  0xF800F000             bl          _Z11sub_2003FF4i
+0x00000012  0x1C29                 mov         r1,r5
+0x00000014  0xF800F000             bl          _Z11sub_20C3980ii
+0x00000018  0x1C06                 mov         r6,r0
+0x0000001A  0x1C28                 mov         r0,r5
+0x0000001C  0x1C21                 mov         r1,r4
+0x0000001E  0xF800F000             bl          _Z11sub_200526Cii
+0x00000022  0x1C30                 mov         r0,r6
+0x00000024  0xBC70                 pop         {r4-r6}
+0x00000026  0xBC08                 pop         {r3}
+0x00000028  0x4718                 bx          r3
+
+
+			*** RELOCATIONS (.rela.text) ***
+
+no     type                  offset      addend      symbol
+
+0      R_ARM_THM_PC22        0x00000004  0xFFFFFFFC  _Z11sub_20048D0i
+1      R_ARM_THM_PC22        0x00000008  0xFFFFFFFC  _Z11sub_2004018i
+2      R_ARM_THM_PC22        0x0000000E  0xFFFFFFFC  _Z11sub_2003FF4i
+3      R_ARM_THM_PC22        0x00000014  0xFFFFFFFC  _Z11sub_20C3980ii
+4      R_ARM_THM_PC22        0x0000001E  0xFFFFFFFC  _Z11sub_200526Cii
+

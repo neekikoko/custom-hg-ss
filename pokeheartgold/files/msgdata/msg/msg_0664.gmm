@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0664_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mother</language>
+		<language name="English">Vivi</language>
 	</row>
 	<row id="msg_0664_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0664_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello?\rOh, hi, {STRVAR_1 3, 0, 0}! Working hard?\nThat sounds really tough.\rBut, {STRVAR_1 3, 0, 0}, I know you’re really\ndetermined. You’ll be OK, right?</language>
+		<language name="English">Hello?\rOh, hi, {STRVAR_1 3, 0, 0} darling! Chu!\nWhere are you? ´ω`\r{STRVAR_1 3, 0, 0}, I'm warming your bed for you, please visit soon, ok?</language>
 	</row>
 	<row id="msg_0664_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -34,39 +34,39 @@
 	</row>
 	<row id="msg_0664_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello?\rOh, hi, {STRVAR_1 3, 0, 0}! Working hard?\nYou’re visiting Cherrygrove City?\rYou know, you’re pretty close...\nHow about coming home for a bit?\r</language>
+		<language name="English">Hello?\rOh, hi, {STRVAR_1 3, 0, 0} darling!\nYou’re visiting Cherrygrove City?\rYou know, you’re pretty close...\nHow about coming home for a bit?\r</language>
 	</row>
 	<row id="msg_0664_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello?\rOh, hi, {STRVAR_1 3, 0, 0}! Working hard?\nOh, so you’re in Violet City...\rIsn’t that where Sprout Tower\nis? Did you go take a look?\r</language>
+		<language name="English">Hello?\rOh, hi, {STRVAR_1 3, 0, 0}, darling!\nIf you come home, cou can have...\ra bath, of something to eat...\nor maybe... me? chu chu!\r</language>
 	</row>
 	<row id="msg_0664_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello?\rOh, hi, {STRVAR_1 3, 0, 0}! Working hard?\nOh, so you’re in Azalea Town...\rIsn’t that where the SLOWPOKE Well\nis? Did you go take a look?\r</language>
+		<language name="English">Hello?\rOh, hi, {STRVAR_1 3, 0, 0} darling!\nChu chu chu chu chu chu chu...\rChu chu chu chu chu chu chu...\nChu chu chu chu chu chu chu!\r</language>
 	</row>
 	<row id="msg_0664_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello?\rOh, hi, {STRVAR_1 3, 0, 0}! Working hard?\nOh, so you’re in Cianwood City...\rIsn’t that where they’re building that\nSafari Zone? Is it open yet?\r</language>
+		<language name="English">Hello?\rOh, hi, {STRVAR_1 3, 0, 0} darling!\nOh, so you’re in Cianwood City...\rIsn’t that where they’re building that\nSafari Zone? Is it open yet?\r</language>
 	</row>
 	<row id="msg_0664_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello?\rOh, hi, {STRVAR_1 3, 0, 0}! Working hard?\nOh, so you’re in Goldenrod City...\rIsn’t that where the Radio Tower\nis? Did you go take a look?\r</language>
+		<language name="English">Hello?\rOh, hi, {STRVAR_1 3, 0, 0} darling!\nOh, so you’re in Goldenrod City...\rIsn’t that where the Radio Tower\nis? Did you go take a look?\r</language>
 	</row>
 	<row id="msg_0664_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello?\rOh, hi, {STRVAR_1 3, 0, 0}! Working hard?\nOh, so you’re in Olivine City...\rIsn’t that where that big Lighthouse\nis? Did you go take a look?\r</language>
+		<language name="English">Hello?\rOh, hi, {STRVAR_1 3, 0, 0} darling!\nOh, so you’re in Olivine City...\rIsn’t that where that big Lighthouse\nis? Did you go take a look?\r</language>
 	</row>
 	<row id="msg_0664_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello?\rOh, hi, {STRVAR_1 3, 0, 0}! Working hard?\nOh, so you’re in Ecruteak City...\rIsn’t that where the Bell Tower\nis? Did you go take a look?\r</language>
+		<language name="English">Hello?\rOh, hi, {STRVAR_1 3, 0, 0} darling!\nOh, so you’re in Ecruteak City...\rIsn’t that where the Bell Tower\nis? Did you go take a look?\r</language>
 	</row>
 	<row id="msg_0664_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello?\rOh, hi, {STRVAR_1 3, 0, 0}! Working hard?\nWow, you’re in {STRVAR_1 4, 2, 0}?\rGood luck on your Pokémon quest!\r</language>
+		<language name="English">Hello?\rOh, hi, {STRVAR_1 3, 0, 0} darling!\nI love you and I miss you!\rCome home so we can sleep together *w*\r</language>
 	</row>
 	<row id="msg_0664_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello?\rOh, hi, {STRVAR_1 3, 0, 0}! Working hard?\rWow, you’re in {STRVAR_1 4, 2, 0}?\rWell, as your mom, I know you’re doing\nyour best wherever you go!\r</language>
+		<language name="English">Hello?\rOh, hi, {STRVAR_1 3, 0, 0} darling!\rYou know, {STRVAR_1 3, 0, 0}, if you came home...\ryou know what we could do, right? Chu!\nI love you, chu chu!\r</language>
 	</row>
 	<row id="msg_0664_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
@@ -74,11 +74,11 @@
 	</row>
 	<row id="msg_0664_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello?\rOh, hi, {STRVAR_1 3, 0, 0}! Working hard?\nThat sounds really tough.\rBut, {STRVAR_1 3, 0, 0}, I know you’re really\ndetermined. You’ll be OK, right?\r</language>
+		<language name="English">Hello?\rOh, hi, {STRVAR_1 3, 0, 0} darling!\nThat sounds really tough.\rBut, {STRVAR_1 3, 0, 0}, I know you’re really\ndetermined. You’ll be OK, right?\r</language>
 	</row>
 	<row id="msg_0664_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello?\rOh, hi, {STRVAR_1 3, 0, 0}! Working hard?\rYou’re in Kanto?! Wow, that’s\nwonderful, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Hello?\rOh, hi, {STRVAR_1 3, 0, 0} darling!\rYou’re in Kanto?! Wow, that’s\nwonderful, {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0664_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
@@ -94,30 +94,30 @@
 	</row>
 	<row id="msg_0664_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">By the way, you’ve saved up ${STRVAR_1 55, 10, 0}.\nDo you want to keep on saving?</language>
+		<language name="English">By the way, you gave me ${STRVAR_1 55, 10, 0}.\nDo you want to give me more? Chu!</language>
 	</row>
 	<row id="msg_0664_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">By the way, {STRVAR_1 3, 0, 0}, you’ve saved\nup ${STRVAR_1 55, 10, 0}.\fWant to start saving again?</language>
+		<language name="English">By the way, {STRVAR_1 3, 0, 0}, you’ve given\nme ${STRVAR_1 55, 10, 0}.\fGive me more again?</language>
 	</row>
 	<row id="msg_0664_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK. I’ll save your money.\r{STRVAR_1 3, 0, 0}, keep it up! I’m rooting\nfor you, baby!</language>
+		<language name="English">OK. I’ll spend your money!\r{STRVAR_1 3, 0, 0}, hehehe! I need more\nfrom you, darling!</language>
 	</row>
 	<row id="msg_0664_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK. I won’t save your money.\r{STRVAR_1 3, 0, 0}, keep it up! I’m rooting\nfor you, baby!</language>
+		<language name="English">Wtf? You wont give me money?\r{STRVAR_1 3, 0, 0}, I hate you! I only love you for money!</language>
 	</row>
 	<row id="msg_0664_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s important to\nsave your money.</language>
+		<language name="English">It’s important to\ngive me your money.</language>
 	</row>
 	<row id="msg_0664_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, {STRVAR_1 3, 0, 0}, you’re not saving\nany money. Would you like to save? {YESNO 0}</language>
+		<language name="English">Oh, {STRVAR_1 3, 0, 0}, you’re not giving me\nany money. Would you like to give? {YESNO 0}</language>
 	</row>
 	<row id="msg_0664_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello?\rOh, hi, {STRVAR_1 3, 0, 0}! How are you?\rI found a useful item while shopping, so\nI bought it with your money. Sorry!\rBut I asked the deliveryman to take it\nto you, so you should stop by the\fnearest Poké Mart or Department Store\fand pick it up! I know it’ll be useful!</language>
+		<language name="English">Hello?\rOh, hi, {STRVAR_1 3, 0, 0} darling!\rI found something i liked while shopping, so\nI bought it with your money. Hehe!\rI didn't ask for your permission\nbecause I don't care, chu chu!\fBut you know, I can always return\fthe favor in other ways, chu chu!</language>
 	</row>
 </body>

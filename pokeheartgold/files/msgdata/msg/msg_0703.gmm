@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0703_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ian</language>
+		<language name="English">Rurattee</language>
 	</row>
 	<row id="msg_0703_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -30,6 +30,7 @@
 	</row>
 	<row id="msg_0703_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
+
 		<language name="English">You know, I’ve learned a lot from\nwatching you battle, and I’ve been\fpracticing with my {STRVAR_1 0, 10, 0}.\rThanks to you, we’ve improved a lot!\rBut even though we’ve grown stronger,\nyou’ve probably gotten stronger at\fthe same time, I guess.\rSo...that means we still won’t\nbe able to beat you, I guess!</language>
 	</row>
 	<row id="msg_0703_00008" index="8">
@@ -50,6 +51,7 @@
 	</row>
 	<row id="msg_0703_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, you know why I’m always in shorts?\rIt’s because they’re really cool!\rYou know how, if you scuff your knees\nand you’re wearing shorts, everyone\fcan see all the bandages?\fIt makes me look wild and dangerous!</language>
+                                                                                                                                                                                                             
+		<language name="English">Hey, you know why I look like cirno?\rBecause she’s so cool, uooohhh!\rBut for some reason I never play\nany touhou games on stream, so\fI don’t know what’s up with that.\fAnyway gotta do Hollow Knight, byebye!</language>
 	</row>
 </body>

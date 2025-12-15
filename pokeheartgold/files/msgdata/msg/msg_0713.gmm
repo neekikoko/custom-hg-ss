@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0713_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Todd</language>
+		<language name="English">4thAce</language>
 	</row>
 	<row id="msg_0713_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -42,6 +42,7 @@
 	</row>
 	<row id="msg_0713_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello!\rYou know, I was on the sixth floor of\nthe Goldenrod Department Store trying\fout the drawing. It’s so exciting!</language>
+		                                                                                                             
+		<language name="English">Hello!\rYou know, it’s totally normal to be\ninterested in men, even when you are\fstraight. Anyway gotta bully Agumii, bye!</language>
 	</row>
 </body>

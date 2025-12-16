@@ -1649,12 +1649,6 @@ static u8 sub_0207B0B0(PartyMenu *partyMenu, u8 *buf) {
             }
 
             if(partyMenu->partyMonIndex == 0) {
-//                 fieldEffect = MoveId_GetFieldEffectId(MOVE_FLY);
-//                 buf[count] = fieldEffect;
-//                 ++count;
-//                 PartyMenu_ContextMenuAddFieldMove(partyMenu, MOVE_FLY, fieldMoveIndex);
-//                 ++fieldMoveIndex;
-
                 fieldEffect = MoveId_GetFieldEffectId(MOVE_CUT);
                 buf[count] = fieldEffect;
                 ++count;
@@ -1675,12 +1669,6 @@ static u8 sub_0207B0B0(PartyMenu *partyMenu, u8 *buf) {
                 PartyMenu_ContextMenuAddFieldMove(partyMenu, MOVE_STRENGTH, fieldMoveIndex);
                 ++fieldMoveIndex;
 
-//                 fieldEffect = MoveId_GetFieldEffectId(MOVE_WHIRLPOOL);
-//                 buf[count] = fieldEffect;
-//                 ++count;
-//                 PartyMenu_ContextMenuAddFieldMove(partyMenu, MOVE_WHIRLPOOL, fieldMoveIndex);
-//                 ++fieldMoveIndex;
-
                 fieldEffect = MoveId_GetFieldEffectId(MOVE_SURF);
                 buf[count] = fieldEffect;
                 ++count;
@@ -1689,18 +1677,6 @@ static u8 sub_0207B0B0(PartyMenu *partyMenu, u8 *buf) {
             }
 
             if(partyMenu->partyMonIndex == 2) {
-//                 fieldEffect = MoveId_GetFieldEffectId(MOVE_WATERFALL);
-//                 buf[count] = fieldEffect;
-//                 ++count;
-//                 PartyMenu_ContextMenuAddFieldMove(partyMenu, MOVE_WATERFALL, fieldMoveIndex);
-//                 ++fieldMoveIndex;
-
-//                 fieldEffect = MoveId_GetFieldEffectId(MOVE_HEADBUTT);
-//                 buf[count] = fieldEffect;
-//                 ++count;
-//                 PartyMenu_ContextMenuAddFieldMove(partyMenu, MOVE_HEADBUTT, fieldMoveIndex);
-//                 ++fieldMoveIndex;
-
                 fieldEffect = MoveId_GetFieldEffectId(MOVE_ROCK_SMASH);
                 buf[count] = fieldEffect;
                 ++count;
@@ -1711,6 +1687,34 @@ static u8 sub_0207B0B0(PartyMenu *partyMenu, u8 *buf) {
                 buf[count] = fieldEffect;
                 ++count;
                 PartyMenu_ContextMenuAddFieldMove(partyMenu, MOVE_ROCK_CLIMB, fieldMoveIndex);
+                ++fieldMoveIndex;
+            }
+
+            if(partyMenu->partyMonIndex == 3) {
+                fieldEffect = MoveId_GetFieldEffectId(MOVE_FLY);
+                buf[count] = fieldEffect;
+                ++count;
+                PartyMenu_ContextMenuAddFieldMove(partyMenu, MOVE_FLY, fieldMoveIndex);
+                ++fieldMoveIndex;
+
+                fieldEffect = MoveId_GetFieldEffectId(MOVE_WHIRLPOOL);
+                buf[count] = fieldEffect;
+                ++count;
+                PartyMenu_ContextMenuAddFieldMove(partyMenu, MOVE_WHIRLPOOL, fieldMoveIndex);
+                ++fieldMoveIndex;
+            }
+
+            if(partyMenu->partyMonIndex == 4) {
+                fieldEffect = MoveId_GetFieldEffectId(MOVE_WATERFALL);
+                buf[count] = fieldEffect;
+                ++count;
+                PartyMenu_ContextMenuAddFieldMove(partyMenu, MOVE_WATERFALL, fieldMoveIndex);
+                ++fieldMoveIndex;
+
+                fieldEffect = MoveId_GetFieldEffectId(MOVE_HEADBUTT);
+                buf[count] = fieldEffect;
+                ++count;
+                PartyMenu_ContextMenuAddFieldMove(partyMenu, MOVE_HEADBUTT, fieldMoveIndex);
                 ++fieldMoveIndex;
             }
 

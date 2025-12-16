@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0664_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Vivi</language>
+		<language name="English">Sengoku</language>
 	</row>
 	<row id="msg_0664_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -118,6 +118,6 @@
 	</row>
 	<row id="msg_0664_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello?\rOh, hi, {STRVAR_1 3, 0, 0} darling!\rI found something i liked while shopping, so\nI bought it with your money. Hehe!\rI didn’t ask for your permission\nbecause I don’t care, chu chu!\fBut you know, I can always return\fthe favor in other ways, chu chu!</language>
+		<language name="English">Hello?\rOh, hi, {STRVAR_1 3, 0, 0}...\rI found something i liked while shopping, so\nI bought it for you.\rDon’t worry, I bought it from\nmy own money...\fJust a little present because...\fI appreciate you!</language>
 	</row>
 </body>

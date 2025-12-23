@@ -1270,7 +1270,7 @@
 	</row>
 	<row id="msg_0728_00317" index="317">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, you! Trainer from Johto!\rBrock is tough. He’ll punish you if you\ndon’t take him seriously.\n</language>
+		<language name="English">Hey, you! Trainer from Johto!\rMalphon is tough. He’ll punish you if you\ndon’t take him seriously.\n</language>
 	</row>
 	<row id="msg_0728_00318" index="318">
 		<attribute name="window_context_name">used</attribute>

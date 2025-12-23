@@ -1435,7 +1435,7 @@ const PhoneCallScriptDef gPhoneCallScriptDef[] = {
      .param1 = 0,
      },
 
-    // Brock
+    // Malphon
     // PHONE_SCRIPT_183
     {
      .msgIds = { msg_0657_00001, msg_0657_00001 },

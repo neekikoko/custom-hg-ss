@@ -114,11 +114,11 @@
 	</row>
 	<row id="msg_0533_T11R0101_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock: All right!\nTime to fulfill our promise!\fLet’s have a Pokémon battle!\r</language>
+		<language name="English">Malphon: All right!\nTime to fulfill our promise!\fLet’s have a Pokémon battle!\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock: I’ve lost again...\nYou aren’t adventuring around\ffor nothing!</language>
+		<language name="English">Malphon: I’ve lost again...\nYou aren’t adventuring around\ffor nothing!</language>
 	</row>
 	<row id="msg_0533_T11R0101_00030" index="30">
 		<attribute name="window_context_name">used</attribute>

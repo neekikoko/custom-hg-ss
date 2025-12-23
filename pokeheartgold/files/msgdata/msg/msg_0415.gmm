@@ -58,7 +58,7 @@
 	</row>
 	<row id="msg_0415_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Announcing the top 3 in Pallet Town!\nNumber three is... Ta-da!\nRed’s House!\nRed is currently out on a journey and\nhas been away from his house for a while,\nbut his house is still our number three!\nI wonder where he’s gone...\nMoving on, number two is... Ta-da!\nBlue’s House!\nThe Trainer Blue has some real ability,\nand is said not to lose to Red, which is\nwhy he is in our number two position!\nAnd the number one thing is... Ta-da!\nProfessor Oak’s Laboratory!\nOf course, if you’re talking about Pallet\nTown, you can’t leave out the premier\nPokémon research facility, Professor\nOak’s Laboratory! It’s only natural\nthat this would be our number one!</language>
+		<language name="English">Announcing the top 3 in Pallet Town!\nNumber three is... Ta-da!\nRed’s House!\nRed is currently out on a journey and\nhas been away from his house for a while,\nbut his house is still our number three!\nI wonder where he’s gone...\nMoving on, number two is... Ta-da!\nTTS-Chama’s House!\nThe Trainer Blue has some real ability,\nand is said not to lose to Red, which is\nwhy he is in our number two position!\nAnd the number one thing is... Ta-da!\nProfessor Oak’s Laboratory!\nOf course, if you’re talking about Pallet\nTown, you can’t leave out the premier\nPokémon research facility, Professor\nOak’s Laboratory! It’s only natural\nthat this would be our number one!</language>
 	</row>
 	<row id="msg_0415_00015" index="15">
 		<attribute name="window_context_name">used</attribute>

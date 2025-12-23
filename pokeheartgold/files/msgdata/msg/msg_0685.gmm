@@ -38,7 +38,7 @@
 	</row>
 	<row id="msg_0685_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you know Blue?\rHe’s Professor Oak’s grandson and a\nformer Pokémon League Champion!\fHe’s one super Pokémon Trainer!\rSee you later!</language>
+		<language name="English">Do you know TTS-Chama?\rHe’s Professor Oak’s grandson and a\nformer Pokémon League Champion!\fHe’s one super Pokémon Trainer!\rSee you later!</language>
 	</row>
 	<row id="msg_0685_00010" index="10">
 		<attribute name="window_context_name">used</attribute>

@@ -138,10 +138,10 @@
 	</row>
 	<row id="msg_0533_T11R0101_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blue: Good!\nThanks for coming to lose to me!\r</language>
+		<language name="English">TTS-Chama: Good!\nThanks for coming to lose to me!\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blue: Hahaha!\nMy scare tactic doesn’t scare you\fat all!</language>
+		<language name="English">TTS-Chama: Hahaha!\nMy scare tactic doesn’t scare you\fat all!</language>
 	</row>
 </body>

@@ -2,31 +2,31 @@
 <body language="English">
 	<row id="msg_0485_T06GYM0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge: Hey, you little tyke!\rIt may not be very smart to\nchallenge me, but it takes guts!\rWhen it comes to Electric-type Pokémon,\nI’m number one!\rI’ve never lost on the battlefield.\rI’ll zap you just like I do all my\nenemies in battle!\r</language>
+		<language name="English">Rurattee: Hey, you little tyke!\rIt may not be very smart to\nchallenge me, but it takes guts!\rWhen it comes to Electric-type Pokémon,\nI’m number one!\rI’ve never lost on the battlefield.\rI’ll zap you just like I do all my\nenemies in battle!\r</language>
 	</row>
 	<row id="msg_0485_T06GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge: Arrrgh!\nYou are strong!\rOK, kid.\nYou get the Thunder Badge!\r</language>
+		<language name="English">Rurattee: Arrrgh!\nYou are strong!\rOK, kid.\nYou get the Thunder Badge!\r</language>
 	</row>
 	<row id="msg_0485_T06GYM0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Thunder Badge from Lt. Surge!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Thunder Badge from Rurattee!</language>
 	</row>
 	<row id="msg_0485_T06GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge: That Thunder Badge suits\nthose who’ve defeated me!\fTake good care of it, OK?\rThere is something else.\nHere is a great TM for you!\r</language>
+		<language name="English">Rurattee: That Thunder Badge suits\nthose who’ve defeated me!\fTake good care of it, OK?\rThere is something else.\nHere is a great TM for you!\r</language>
 	</row>
 	<row id="msg_0485_T06GYM0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge: That TM contains\nShock Wave... Zzzap!\rUse it to go like lightning!\rWhen you go north, you will see\na big city called Saffron!</language>
+		<language name="English">Rurattee: That TM contains\nShock Wave... Zzzap!\rUse it to go like lightning!\rWhen you go north, you will see\na big city called Saffron!</language>
 	</row>
 	<row id="msg_0485_T06GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge: Hey, kid!\nStill slugging and chugging away?\rWhen you go north, you will see a\nbig city called Saffron!</language>
+		<language name="English">Rurattee: Hey, kid!\nStill slugging and chugging away?\rWhen you go north, you will see a\nbig city called Saffron!</language>
 	</row>
 	<row id="msg_0485_T06GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yo! Legend in the making!\nYou lucked out this time.\rThe traps at this Gym have been out\nof order for a while.\rBut the traps are back up and\nrunning now!\fWhy lucky, you may ask...\rBecause you can train yourself better\nthat way!\rMake up your mind and go for Lt. Surge!</language>
+		<language name="English">Yo! Legend in the making!\nYou lucked out this time.\rThe traps at this Gym have been out\nof order for a while.\rBut the traps are back up and\nrunning now!\fWhy lucky, you may ask...\rBecause you can train yourself better\nthat way!\rMake up your mind and go for Rurattee!</language>
 	</row>
 	<row id="msg_0485_T06GYM0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -58,6 +58,6 @@
 	</row>
 	<row id="msg_0485_T06GYM0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Vermilion City Pokémon Gym\rGym Leader: Lt. Surge\nCertified Trainer!\f{STRVAR_1 3, 0, 0}</language>
+		<language name="English">Vermilion City Pokémon Gym\rGym Leader: Rurattee\nCertified Trainer!\f{STRVAR_1 3, 0, 0}</language>
 	</row>
 </body>

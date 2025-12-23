@@ -1462,7 +1462,7 @@ const PhoneCallScriptDef gPhoneCallScriptDef[] = {
      .param1 = 0,
      },
 
-    // Lt. Surge
+    // Rurattee
     // PHONE_SCRIPT_186
     {
      .msgIds = { msg_0652_00001, msg_0652_00001 },

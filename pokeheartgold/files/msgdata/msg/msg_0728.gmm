@@ -1346,19 +1346,19 @@
 	</row>
 	<row id="msg_0728_00336" index="336">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re here to defeat Lt. Surge?\nNot if I can help it!\r</language>
+		<language name="English">You’re here to defeat Rurattee?\nNot if I can help it!\r</language>
 	</row>
 	<row id="msg_0728_00337" index="337">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sorry I failed you, Lt. Surge, sir!\n</language>
+		<language name="English">Sorry I failed you, Rurattee, sir!\n</language>
 	</row>
 	<row id="msg_0728_00338" index="338">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When I was in the military, this is what\nLt. Surge taught me...\rLock the doors, watch out for fire,\nand always have two electric fences\ffor safety!\n</language>
+		<language name="English">When I was in the military, this is what\nRurattee taught me...\rLock the doors, watch out for fire,\nand always have two electric fences\ffor safety!\n</language>
 	</row>
 	<row id="msg_0728_00339" index="339">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge saw my potential with\nElectric-type Pokémon.\fThink you can beat me?\r</language>
+		<language name="English">Rurattee saw my potential with\nElectric-type Pokémon.\fThink you can beat me?\r</language>
 	</row>
 	<row id="msg_0728_00340" index="340">
 		<attribute name="window_context_name">used</attribute>
@@ -1366,7 +1366,7 @@
 	</row>
 	<row id="msg_0728_00341" index="341">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The reason that Lt. Surge is protected\nby electric fences isn’t because\fhe’s a coward! It’s so you won’t\funderestimate his strength!\n</language>
+		<language name="English">The reason that Rurattee is protected\nby electric fences isn’t because\fhe’s a coward! It’s so you won’t\funderestimate his strength!\n</language>
 	</row>
 	<row id="msg_0728_00342" index="342">
 		<attribute name="window_context_name">used</attribute>
@@ -1378,7 +1378,7 @@
 	</row>
 	<row id="msg_0728_00344" index="344">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge hid the electric fences’\nswitches at the bottom of something...\rThere are two switches. Once you’ve\nfound the first, the second switch\fshould be right next to it.\n</language>
+		<language name="English">Rurattee hid the electric fences’\nswitches at the bottom of something...\rThere are two switches. Once you’ve\nfound the first, the second switch\fshould be right next to it.\n</language>
 	</row>
 	<row id="msg_0728_00345" index="345">
 		<attribute name="window_context_name">used</attribute>
@@ -1486,7 +1486,7 @@
 	</row>
 	<row id="msg_0728_00371" index="371">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Karate King, the master of the Fighting\nDojo, was just destroyed by Sabrina.\n</language>
+		<language name="English">Karate King, the master of the Fighting\nDojo, was just destroyed by Vivi.\n</language>
 	</row>
 	<row id="msg_0728_00372" index="372">
 		<attribute name="window_context_name">used</attribute>

@@ -82,19 +82,19 @@
 	</row>
 	<row id="msg_0533_T11R0101_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge: Hey!\nThe promise we made!\fLet’s battle again!\r</language>
+		<language name="English">Rurattee: Hey!\nThe promise we made!\fLet’s battle again!\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge: Oh no!\nYou are very strong!\fBut I will repay my debt someday.</language>
+		<language name="English">Rurattee: Oh no!\nYou are very strong!\fBut I will repay my debt someday.</language>
 	</row>
 	<row id="msg_0533_T11R0101_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina: I knew you’d come!\nI had a feeling.\rWhat? We promised each other,\nso it’s no surprise?\r...Well, you may be right.\r</language>
+		<language name="English">Vivi: I knew you’d come!\nI had a feeling.\rWhat? We promised each other,\nso it’s no surprise?\r...Well, you may be right.\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina: I know...you will give me a call\nagain sometime.</language>
+		<language name="English">Vivi: I know...you will give me a call\nagain sometime.</language>
 	</row>
 	<row id="msg_0533_T11R0101_00024" index="24">
 		<attribute name="window_context_name">used</attribute>

@@ -42,19 +42,19 @@
 	</row>
 	<row id="msg_0396_R39_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge: Hey, you!\rDon’t you want a good memory of us\ntogether? How about taking a\fpicture with me? {YESNO 0}</language>
+		<language name="English">Rurattee: Hey, you!\rDon’t you want a good memory of us\ntogether? How about taking a\fpicture with me? {YESNO 0}</language>
 	</row>
 	<row id="msg_0396_R39_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge: OK! OK!\rShow me a very good smile!\r</language>
+		<language name="English">Rurattee: OK! OK!\rShow me a very good smile!\r</language>
 	</row>
 	<row id="msg_0396_R39_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge: Wow!\nThis turned out to be a really\fgood one!\rWe root for Route 39!</language>
+		<language name="English">Rurattee: Wow!\nThis turned out to be a really\fgood one!\rWe root for Route 39!</language>
 	</row>
 	<row id="msg_0396_R39_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge: That’s OK...\rLet me know if you change your mind.</language>
+		<language name="English">Rurattee: That’s OK...\rLet me know if you change your mind.</language>
 	</row>
 	<row id="msg_0396_R39_00014" index="14">
 		<attribute name="window_context_name">used</attribute>

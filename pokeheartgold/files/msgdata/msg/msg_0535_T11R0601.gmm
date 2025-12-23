@@ -50,27 +50,27 @@
 	</row>
 	<row id="msg_0535_T11R0601_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge: Oh! I never expected to see\nyou at a place like this!\fWhat a coincidence!\rI can feel great electric power around\nthe Magnet Train station!\rYou had a PIKACHU, didn’t you?\nHow about trading it for my\fFrench PIKACHU? {YESNO 0}</language>
+		<language name="English">Rurattee: Oh! I never expected to see\nyou at a place like this!\fWhat a coincidence!\rI can feel great electric power around\nthe Magnet Train station!\rYou had a PIKACHU, didn’t you?\nHow about trading it for my\fFrench PIKACHU? {YESNO 0}</language>
 	</row>
 	<row id="msg_0535_T11R0601_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge: My PIKACHU and\nyour PIKACHU up for a trade,\fwhat do you think?</language>
+		<language name="English">Rurattee: My PIKACHU and\nyour PIKACHU up for a trade,\fwhat do you think?</language>
 	</row>
 	<row id="msg_0535_T11R0601_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge: Wow! Electrifying!\nLet’s trade ’em now!\r</language>
+		<language name="English">Rurattee: Wow! Electrifying!\nLet’s trade ’em now!\r</language>
 	</row>
 	<row id="msg_0535_T11R0601_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge: Shocking!\nI want to share my feelings for\fPIKACHU with you!\rI’m ready anytime, so just bring\na PIKACHU, OK?</language>
+		<language name="English">Rurattee: Shocking!\nI want to share my feelings for\fPIKACHU with you!\rI’m ready anytime, so just bring\na PIKACHU, OK?</language>
 	</row>
 	<row id="msg_0535_T11R0601_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge: Yeah!\nI’m so ecstatic! I’ll see you around.\fGood-bye!\r</language>
+		<language name="English">Rurattee: Yeah!\nI’m so ecstatic! I’ll see you around.\fGood-bye!\r</language>
 	</row>
 	<row id="msg_0535_T11R0601_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge: What? That is not\nthe right Pokémon!\rI won’t trade my PIKACHU for\nanything other than PIKACHU.</language>
+		<language name="English">Rurattee: What? That is not\nthe right Pokémon!\rI won’t trade my PIKACHU for\nanything other than PIKACHU.</language>
 	</row>
 	<row id="msg_0535_T11R0601_00018" index="18">
 		<attribute name="window_context_name">used</attribute>

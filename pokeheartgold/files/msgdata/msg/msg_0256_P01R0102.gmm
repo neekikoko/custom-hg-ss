@@ -18,39 +18,39 @@
 	</row>
 	<row id="msg_0256_P01R0102_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina: Out of the blue...\nI get the urge to see the ocean...\rIt may be fun to exchange numbers\nwith you...\rDo you want mine? {YESNO 0}</language>
+		<language name="English">Vivi: Out of the blue...\nI get the urge to see the ocean...\rIt may be fun to exchange numbers\nwith you...\rDo you want mine? {YESNO 0}</language>
 	</row>
 	<row id="msg_0256_P01R0102_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} registered Sabrina\nin the Pokégear!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} registered Vivi\nin the Pokégear!</language>
 	</row>
 	<row id="msg_0256_P01R0102_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina: I think I can keep my promises\nif you call me on Sundays around noon.</language>
+		<language name="English">Vivi: I think I can keep my promises\nif you call me on Sundays around noon.</language>
 	</row>
 	<row id="msg_0256_P01R0102_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina: I see...\nI thought you’d make a good friend.</language>
+		<language name="English">Vivi: I see...\nI thought you’d make a good friend.</language>
 	</row>
 	<row id="msg_0256_P01R0102_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina: Now you want to know\nmy number?\fI can see it in your eyes... {YESNO 0}</language>
+		<language name="English">Vivi: Now you want to know\nmy number?\fI can see it in your eyes... {YESNO 0}</language>
 	</row>
 	<row id="msg_0256_P01R0102_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina: It’s you...\rHow about a picture here\nagainst the pleasant sea breeze? {YESNO 0}</language>
+		<language name="English">Vivi: It’s you...\rHow about a picture here\nagainst the pleasant sea breeze? {YESNO 0}</language>
 	</row>
 	<row id="msg_0256_P01R0102_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina: Are you ready?\r</language>
+		<language name="English">Vivi: Are you ready?\r</language>
 	</row>
 	<row id="msg_0256_P01R0102_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina: I think it looks good.</language>
+		<language name="English">Vivi: I think it looks good.</language>
 	</row>
 	<row id="msg_0256_P01R0102_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina: I see...\nI thought you’d make a good\fpicture subject...</language>
+		<language name="English">Vivi: I see...\nI thought you’d make a good\fpicture subject...</language>
 	</row>
 	<row id="msg_0256_P01R0102_00013" index="13">
 		<attribute name="window_context_name">used</attribute>

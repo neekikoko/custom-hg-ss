@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0497_T07R0104_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: Ha!\nYou don’t know a thing!\rThe best Trainer in the world is Koga,\none of the Elite Four!\fNamely--my dad!\r</language>
+		<language name="English">Inra: Ha!\nYou don’t know a thing!\rThe best Trainer in the world is Koga,\none of the Elite Four!\fNamely--my dad!\r</language>
 	</row>
 	<row id="msg_0497_T07R0104_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0497_T07R0104_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: Please stop this!\nWhy don’t you just admit that my dad\fis the true Trainer!\r</language>
+		<language name="English">Inra: Please stop this!\nWhy don’t you just admit that my dad\fis the true Trainer!\r</language>
 	</row>
 	<row id="msg_0497_T07R0104_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -62,7 +62,7 @@
 	</row>
 	<row id="msg_0497_T07R0104_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: Bah!</language>
+		<language name="English">Inra: Bah!</language>
 	</row>
 	<row id="msg_0497_T07R0104_00016" index="16">
 		<attribute name="window_context_name">used</attribute>

@@ -1372,7 +1372,7 @@ const PhoneCallScriptDef gPhoneCallScriptDef[] = {
      .param1 = 0,
      },
 
-    // Janine
+    // Inra
     // PHONE_SCRIPT_176
     {
      .msgIds = { msg_0645_00001, msg_0645_00001 },

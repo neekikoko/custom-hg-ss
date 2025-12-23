@@ -30,39 +30,39 @@
 	</row>
 	<row id="msg_0361_R22R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: I’m on the way to my dad’s\nhouse to give him his lunch.\rThe Elite Four has no time to rest,\nday or night. It’s such hard work,\fyou know?\rSay!\nDo you want to exchange numbers? {YESNO 0}</language>
+		<language name="English">Inra: I’m on the way to my dad’s\nhouse to give him his lunch.\rThe Elite Four has no time to rest,\nday or night. It’s such hard work,\fyou know?\rSay!\nDo you want to exchange numbers? {YESNO 0}</language>
 	</row>
 	<row id="msg_0361_R22R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} registered Janine\nin the Pokégear!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} registered Inra\nin the Pokégear!</language>
 	</row>
 	<row id="msg_0361_R22R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: Call me on Monday around noon\nif you want to battle!</language>
+		<language name="English">Inra: Call me on Monday around noon\nif you want to battle!</language>
 	</row>
 	<row id="msg_0361_R22R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: You don’t look like you’re\nscared, but you are, aren’t you?</language>
+		<language name="English">Inra: You don’t look like you’re\nscared, but you are, aren’t you?</language>
 	</row>
 	<row id="msg_0361_R22R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: Now you want to know\nmy number, don’t you? {YESNO 0}</language>
+		<language name="English">Inra: Now you want to know\nmy number, don’t you? {YESNO 0}</language>
 	</row>
 	<row id="msg_0361_R22R0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: I’m done taking lunch to\nmy dad, and now I’m on my way home.\rDo you want to take a picture\nwith me? {YESNO 0}</language>
+		<language name="English">Inra: I’m done taking lunch to\nmy dad, and now I’m on my way home.\rDo you want to take a picture\nwith me? {YESNO 0}</language>
 	</row>
 	<row id="msg_0361_R22R0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: Can you look as cool as me\nfor the picture?\r</language>
+		<language name="English">Inra: Can you look as cool as me\nfor the picture?\r</language>
 	</row>
 	<row id="msg_0361_R22R0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: Don’t you think we look\ngood in the picture?</language>
+		<language name="English">Inra: Don’t you think we look\ngood in the picture?</language>
 	</row>
 	<row id="msg_0361_R22R0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: That’s a pity!</language>
+		<language name="English">Inra: That’s a pity!</language>
 	</row>
 	<row id="msg_0361_R22R0101_00016" index="16">
 		<attribute name="window_context_name">used</attribute>

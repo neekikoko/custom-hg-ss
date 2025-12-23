@@ -86,7 +86,7 @@
 	</row>
 	<row id="msg_0415_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Announcing the top 3 in Fuchsia City!\nNumber three is... Ta-da!\nThe Fuchsia City Gym!\nThe first Gym Leader Koga went on to\nbecome one of the Elite Four and left the\nGym in his daughter Janine’s care.\nHer doing her daughterly duty seems\nto be where the votes come from.\nMoving on, number two is... Ta-da!\nThe Pal Park!\nOh, this is unexpected, isn’t it! I was\nsure this would be number one, but the\nPal Park has finished in second place.\nSo what’s in first place? Ta-da!\nThe trio of AIPOM!\nI see! It seems that everyone really\nloves the Pal Park Warden’s prized\nthree AIPOM that live with him!</language>
+		<language name="English">Announcing the top 3 in Fuchsia City!\nNumber three is... Ta-da!\nThe Fuchsia City Gym!\nThe first Gym Leader Koga went on to\nbecome one of the Elite Four and left the\nGym in his daughter Inra’s care.\nHer doing her daughterly duty seems\nto be where the votes come from.\nMoving on, number two is... Ta-da!\nThe Pal Park!\nOh, this is unexpected, isn’t it! I was\nsure this would be number one, but the\nPal Park has finished in second place.\nSo what’s in first place? Ta-da!\nThe trio of AIPOM!\nI see! It seems that everyone really\nloves the Pal Park Warden’s prized\nthree AIPOM that live with him!</language>
 	</row>
 	<row id="msg_0415_00022" index="22">
 		<attribute name="window_context_name">used</attribute>

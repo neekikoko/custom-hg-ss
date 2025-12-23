@@ -122,11 +122,11 @@
 	</row>
 	<row id="msg_0533_T11R0101_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: I can’t use my ninja technique,\nbut I won’t let you win!\r</language>
+		<language name="English">Inra: I can’t use my ninja technique,\nbut I won’t let you win!\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: I lost today,\nbut I’ll win next time!</language>
+		<language name="English">Inra: I lost today,\nbut I’ll win next time!</language>
 	</row>
 	<row id="msg_0533_T11R0101_00032" index="32">
 		<attribute name="window_context_name">used</attribute>

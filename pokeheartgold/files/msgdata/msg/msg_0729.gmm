@@ -1026,7 +1026,7 @@
 	</row>
 	<row id="msg_0729_00256" index="256">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{TRNAME}Erika</language>
+		<language name="English">{TRNAME}Fythol</language>
 	</row>
 	<row id="msg_0729_00257" index="257">
 		<attribute name="window_context_name">used</attribute>
@@ -2894,7 +2894,7 @@
 	</row>
 	<row id="msg_0729_00723" index="723">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{TRNAME}Erika</language>
+		<language name="English">{TRNAME}Fythol</language>
 	</row>
 	<row id="msg_0729_00724" index="724">
 		<attribute name="window_context_name">used</attribute>

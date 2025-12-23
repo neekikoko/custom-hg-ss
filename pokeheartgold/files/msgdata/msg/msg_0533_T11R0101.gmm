@@ -98,11 +98,11 @@
 	</row>
 	<row id="msg_0533_T11R0101_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: How are you?\nGood to see you again!\rThis place really doesn’t suit me,\fbut...let’s ignore that and battle!\r</language>
+		<language name="English">Fythol: How are you?\nGood to see you again!\rThis place really doesn’t suit me,\fbut...let’s ignore that and battle!\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: You have grown even stronger...</language>
+		<language name="English">Fythol: You have grown even stronger...</language>
 	</row>
 	<row id="msg_0533_T11R0101_00026" index="26">
 		<attribute name="window_context_name">used</attribute>

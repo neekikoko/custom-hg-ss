@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0493_T07PC0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika is a master of Grass-type\nPokémon.\rShe’ll make you pay if you don’t\nwatch yourself.</language>
+		<language name="English">Fythol is a master of Grass-type\nPokémon.\rShe’ll make you pay if you don’t\nwatch yourself.</language>
 	</row>
 	<row id="msg_0493_T07PC0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>

@@ -1382,7 +1382,7 @@
 	</row>
 	<row id="msg_0728_00345" index="345">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jo: We protect Erika!\r</language>
+		<language name="English">Jo: We protect Fythol!\r</language>
 	</row>
 	<row id="msg_0728_00346" index="346">
 		<attribute name="window_context_name">used</attribute>
@@ -1390,7 +1390,7 @@
 	</row>
 	<row id="msg_0728_00347" index="347">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jo: Wow, you’re about as strong as\nErika, huh!</language>
+		<language name="English">Jo: Wow, you’re about as strong as\nFythol, huh!</language>
 	</row>
 	<row id="msg_0728_00348" index="348">
 		<attribute name="window_context_name">used</attribute>
@@ -1398,7 +1398,7 @@
 	</row>
 	<row id="msg_0728_00349" index="349">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zoe: We’re going to protect Erika!\r</language>
+		<language name="English">Zoe: We’re going to protect Fythol!\r</language>
 	</row>
 	<row id="msg_0728_00350" index="350">
 		<attribute name="window_context_name">used</attribute>
@@ -1414,7 +1414,7 @@
 	</row>
 	<row id="msg_0728_00353" index="353">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s no way I can let some unknown\nTrainer go straight to Erika!\r</language>
+		<language name="English">There’s no way I can let some unknown\nTrainer go straight to Fythol!\r</language>
 	</row>
 	<row id="msg_0728_00354" index="354">
 		<attribute name="window_context_name">used</attribute>
@@ -1422,7 +1422,7 @@
 	</row>
 	<row id="msg_0728_00355" index="355">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m too ashamed to face Erika!\n</language>
+		<language name="English">I’m too ashamed to face Fythol!\n</language>
 	</row>
 	<row id="msg_0728_00356" index="356">
 		<attribute name="window_context_name">used</attribute>

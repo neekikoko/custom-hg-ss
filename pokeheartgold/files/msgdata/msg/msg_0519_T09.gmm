@@ -42,39 +42,39 @@
 	</row>
 	<row id="msg_0519_T09_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: I’ll never give up until the \nday I’ve rebuilt the Cinnabar Gym!\rWhy not exchange numbers! {YESNO 0}</language>
+		<language name="English">Ratyy: I’ll never give up until the \nday I’ve rebuilt the Cinnabar Gym!\rWhy not exchange numbers! {YESNO 0}</language>
 	</row>
 	<row id="msg_0519_T09_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} registered Blaine\nin the Pokégear!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} registered Ratyy\nin the Pokégear!</language>
 	</row>
 	<row id="msg_0519_T09_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Hmmm...\nWe should be able to battle\fon Tuesday evenings!</language>
+		<language name="English">Ratyy: Hmmm...\nWe should be able to battle\fon Tuesday evenings!</language>
 	</row>
 	<row id="msg_0519_T09_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Oh...how disappointing!</language>
+		<language name="English">Ratyy: Oh...how disappointing!</language>
 	</row>
 	<row id="msg_0519_T09_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Do we want to exchange\nnumbers? {YESNO 0}</language>
+		<language name="English">Ratyy: Do we want to exchange\nnumbers? {YESNO 0}</language>
 	</row>
 	<row id="msg_0519_T09_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Oh, it is you!\nSay, do you want to take a picture\fwith me right here? {YESNO 0}</language>
+		<language name="English">Ratyy: Oh, it is you!\nSay, do you want to take a picture\fwith me right here? {YESNO 0}</language>
 	</row>
 	<row id="msg_0519_T09_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: There, stand next to me!\r</language>
+		<language name="English">Ratyy: There, stand next to me!\r</language>
 	</row>
 	<row id="msg_0519_T09_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Oh, this is a good picture!</language>
+		<language name="English">Ratyy: Oh, this is a good picture!</language>
 	</row>
 	<row id="msg_0519_T09_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Noooo!</language>
+		<language name="English">Ratyy: Noooo!</language>
 	</row>
 	<row id="msg_0519_T09_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
@@ -82,7 +82,7 @@
 	</row>
 	<row id="msg_0519_T09_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is a notice here...\rThe Cinnabar Gym has relocated\nto Seafoam Islands.\f           Blaine</language>
+		<language name="English">There is a notice here...\rThe Cinnabar Gym has relocated\nto Seafoam Islands.\f           Ratyy</language>
 	</row>
 	<row id="msg_0519_T09_00021" index="21">
 		<attribute name="window_context_name">used</attribute>

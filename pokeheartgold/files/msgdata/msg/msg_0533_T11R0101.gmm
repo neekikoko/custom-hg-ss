@@ -130,11 +130,11 @@
 	</row>
 	<row id="msg_0533_T11R0101_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: You keep your word.\nThat’s a good thing, kiddo!\r</language>
+		<language name="English">Ratyy: You keep your word.\nThat’s a good thing, kiddo!\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Waaah!\rIf I had known this Dojo was going to be\navailable, I wouldn’t have needed to\frebuild my Gym.\rWait! I still did, didn’t I?</language>
+		<language name="English">Ratyy: Waaah!\rIf I had known this Dojo was going to be\navailable, I wouldn’t have needed to\frebuild my Gym.\rWait! I still did, didn’t I?</language>
 	</row>
 	<row id="msg_0533_T11R0101_00034" index="34">
 		<attribute name="window_context_name">used</attribute>

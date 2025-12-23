@@ -1408,7 +1408,7 @@ const PhoneCallScriptDef gPhoneCallScriptDef[] = {
      .param1 = 0,
      },
 
-    // Blaine
+    // Ratyy
     // PHONE_SCRIPT_180
     {
      .msgIds = { msg_0651_00001, msg_0651_00001 },

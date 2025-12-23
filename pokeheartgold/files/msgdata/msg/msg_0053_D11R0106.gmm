@@ -2,27 +2,27 @@
 <body language="English">
 	<row id="msg_0053_D11R0106_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Hey, you!\rMy Gym on Cinnabar Island was burned\ndown by the eruption!\rBut I will not give up!\nTake a look at this cave.\rWe have turned it into a Gym, and I am\nstill acting as a Gym Leader!\rI will give you the Gym Badge\nif you manage to defeat me!\rAre you ready? Here we go!\r</language>
+		<language name="English">Ratyy: Hey, you!\rMy Gym on Cinnabar Island was burned\ndown by the eruption!\rBut I will not give up!\nTake a look at this cave.\rWe have turned it into a Gym, and I am\nstill acting as a Gym Leader!\rI will give you the Gym Badge\nif you manage to defeat me!\rAre you ready? Here we go!\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Awesome. I have burned out...\fTake this Volcano Badge!\r</language>
+		<language name="English">Ratyy: Awesome. I have burned out...\fTake this Volcano Badge!\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Volcano Badge from Blaine!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Volcano Badge from Ratyy!</language>
 	</row>
 	<row id="msg_0053_D11R0106_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Here, I will give you this, too.\nIt’s called Overheat!\rIt has a slight drawback, but it’s\npowerful and well worth it!\r</language>
+		<language name="English">Ratyy: Here, I will give you this, too.\nIt’s called Overheat!\rIt has a slight drawback, but it’s\npowerful and well worth it!\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: I did lose this time, but I’m\ngoing to win next time.\rWhen I rebuild my Cinnabar Gym,\nwe have to hold a rematch.</language>
+		<language name="English">Ratyy: I did lose this time, but I’m\ngoing to win next time.\rWhen I rebuild my Cinnabar Gym,\nwe have to hold a rematch.</language>
 	</row>
 	<row id="msg_0053_D11R0106_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: My Fire-type Pokémon will be\neven stronger! Just you watch!</language>
+		<language name="English">Ratyy: My Fire-type Pokémon will be\neven stronger! Just you watch!</language>
 	</row>
 	<row id="msg_0053_D11R0106_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -74,15 +74,15 @@
 	</row>
 	<row id="msg_0053_D11R0106_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine may have lost his Gym, but he\nnever gives up. His perseverance\fis what motivates me!\r</language>
+		<language name="English">Ratyy may have lost his Gym, but he\nnever gives up. His perseverance\fis what motivates me!\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Together with Blaine, we will rebuild\nour Gym!</language>
+		<language name="English">Together with Ratyy, we will rebuild\nour Gym!</language>
 	</row>
 	<row id="msg_0053_D11R0106_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Together with Blaine, we will rebuild\nour Gym!\r</language>
+		<language name="English">Together with Ratyy, we will rebuild\nour Gym!\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
@@ -98,7 +98,7 @@
 	</row>
 	<row id="msg_0053_D11R0106_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yo! Legend in the making!\rThis Gym has many Trainers and rocks\nin the way from the rebuilding.\fIt sure won’t be easy to get to Blaine!\rBut keep your cool and defeat the\nTrainers one by one, and you will surely\ffind the path!</language>
+		<language name="English">Yo! Legend in the making!\rThis Gym has many Trainers and rocks\nin the way from the rebuilding.\fIt sure won’t be easy to get to Ratyy!\rBut keep your cool and defeat the\nTrainers one by one, and you will surely\ffind the path!</language>
 	</row>
 	<row id="msg_0053_D11R0106_00025" index="25">
 		<attribute name="window_context_name">used</attribute>

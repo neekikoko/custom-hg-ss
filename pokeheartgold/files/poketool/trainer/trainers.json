@@ -9674,7 +9674,7 @@
       "messages": [
         {
           "type": "TRMSG_INTRO",
-          "message": "Lt. Surge saw my potential with\\nElectric-type Pok\u00e9mon.\\fThink you can beat me?\\r"
+          "message": "Rurattee saw my potential with\\nElectric-type Pok\u00e9mon.\\fThink you can beat me?\\r"
         },
         {
           "type": "TRMSG_LOSE",
@@ -9682,7 +9682,7 @@
         },
         {
           "type": "TRMSG_AFTER",
-          "message": "The reason that Lt. Surge is protected\\nby electric fences isn\u2019t because\\fhe\u2019s a coward! It\u2019s so you won\u2019t\\funderestimate his strength!\\n"
+          "message": "The reason that Rurattee is protected\\nby electric fences isn\u2019t because\\fhe\u2019s a coward! It\u2019s so you won\u2019t\\funderestimate his strength!\\n"
         }
       ]
     },
@@ -10855,7 +10855,7 @@
     {
       "type": "TRTYPE_MON_ITEM_MOVES",
       "class": "TRAINERCLASS_LEADER_BROCK",
-      "name": "{TRNAME}Brock",
+      "name": "{TRNAME}Malphon",
       "items": [
         "ITEM_FULL_RESTORE",
         "ITEM_FULL_RESTORE",
@@ -10958,7 +10958,7 @@
     {
       "type": "TRTYPE_MON_ITEM_MOVES",
       "class": "TRAINERCLASS_LEADER_MISTY",
-      "name": "{TRNAME}Misty",
+      "name": "{TRNAME}Agumii",
       "items": [
         "ITEM_FULL_RESTORE",
         "ITEM_FULL_RESTORE",
@@ -11075,13 +11075,13 @@
           "genderOverride": "TRPOKE_GENDER_OVERRIDE_OFF",
           "abilityOverride": "TRPOKE_ABILITY_OVERRIDE_SECOND",
           "level": 47,
-          "species": "SPECIES_ELECTRODE",
-          "item": "ITEM_NONE",
+          "species": "SPECIES_MISMAGIUS",
+          "item": "ITEM_SPELL_TAG",
           "moves": [
-            "MOVE_THUNDER_WAVE",
-            "MOVE_DOUBLE_TEAM",
-            "MOVE_SHOCK_WAVE",
-            "MOVE_LIGHT_SCREEN"
+            "MOVE_CALM_MIND",
+            "MOVE_DARK_PULSE",
+            "MOVE_SHADOW_BALL",
+            "MOVE_TOXIC"
           ],
           "capsule": 0
         },
@@ -11090,13 +11090,13 @@
           "genderOverride": "TRPOKE_GENDER_OVERRIDE_OFF",
           "abilityOverride": "TRPOKE_ABILITY_OVERRIDE_OFF",
           "level": 47,
-          "species": "SPECIES_MAGNETON",
-          "item": "ITEM_NONE",
+          "species": "SPECIES_SHEDINJA",
+          "item": "ITEM_FOCUS_SASH",
           "moves": [
-            "MOVE_SUPERSONIC",
-            "MOVE_DOUBLE_TEAM",
-            "MOVE_SHOCK_WAVE",
-            "MOVE_MIRROR_SHOT"
+            "MOVE_AGILITY",
+            "MOVE_WILL_O_WISP",
+            "MOVE_SILVER_WIND",
+            "MOVE_METAL_CLAW"
           ],
           "capsule": 0
         },
@@ -11105,13 +11105,13 @@
           "genderOverride": "TRPOKE_GENDER_OVERRIDE_OFF",
           "abilityOverride": "TRPOKE_ABILITY_OVERRIDE_SECOND",
           "level": 47,
-          "species": "SPECIES_ELECTRODE",
-          "item": "ITEM_NONE",
+          "species": "SPECIES_CAMERUPT",
+          "item": "ITEM_EXPERT_BELT",
           "moves": [
-            "MOVE_SCREECH",
-            "MOVE_DOUBLE_TEAM",
-            "MOVE_SELFDESTRUCT",
-            "MOVE_CHARGE_BEAM"
+            "MOVE_ERUPTION",
+            "MOVE_EARTHQUAKE",
+            "MOVE_FLASH_CANNON",
+            "MOVE_BODY_SLAM"
           ],
           "capsule": 0
         },
@@ -11120,13 +11120,28 @@
           "genderOverride": "TRPOKE_GENDER_OVERRIDE_OFF",
           "abilityOverride": "TRPOKE_ABILITY_OVERRIDE_OFF",
           "level": 53,
-          "species": "SPECIES_ELECTABUZZ",
-          "item": "ITEM_SITRUS_BERRY",
+          "species": "SPECIES_METAGROSS",
+          "item": "ITEM_LEFTOVERS",
           "moves": [
-            "MOVE_QUICK_ATTACK",
-            "MOVE_SHOCK_WAVE",
-            "MOVE_LIGHT_SCREEN",
-            "MOVE_LOW_KICK"
+            "MOVE_AGILITY",
+            "MOVE_ICE_PUNCH",
+            "MOVE_METEOR_MASH",
+            "MOVE_THUNDER_PUNCH"
+          ],
+          "capsule": 0
+        },
+        {
+          "difficulty": 200,
+          "genderOverride": "TRPOKE_GENDER_OVERRIDE_OFF",
+          "abilityOverride": "TRPOKE_ABILITY_OVERRIDE_OFF",
+          "level": 53,
+          "species": "SPECIES_LANTURN",
+          "item": "ITEM_DAMP_ROCK",
+          "moves": [
+            "MOVE_RAIN_DANCE",
+            "MOVE_THUNDER",
+            "MOVE_SURF",
+            "MOVE_BRINE"
           ],
           "capsule": 0
         }
@@ -11149,7 +11164,7 @@
     {
       "type": "TRTYPE_MON_ITEM_MOVES",
       "class": "TRAINERCLASS_LEADER_ERIKA",
-      "name": "{TRNAME}Erika",
+      "name": "{TRNAME}Fythol",
       "items": [
         "ITEM_FULL_RESTORE",
         "ITEM_FULL_RESTORE",
@@ -11237,7 +11252,7 @@
     {
       "type": "TRTYPE_MON_ITEM_MOVES",
       "class": "TRAINERCLASS_LEADER_JANINE",
-      "name": "{TRNAME}Janine",
+      "name": "{TRNAME}Inra",
       "items": [
         "ITEM_FULL_RESTORE",
         "ITEM_FULL_RESTORE",
@@ -11340,7 +11355,7 @@
     {
       "type": "TRTYPE_MON_ITEM_MOVES",
       "class": "TRAINERCLASS_LEADER_SABRINA",
-      "name": "{TRNAME}Sabrina",
+      "name": "{TRNAME}Vivi",
       "items": [
         "ITEM_FULL_RESTORE",
         "ITEM_FULL_RESTORE",
@@ -11413,7 +11428,7 @@
     {
       "type": "TRTYPE_MON_ITEM_MOVES",
       "class": "TRAINERCLASS_LEADER_BLAINE",
-      "name": "{TRNAME}Blaine",
+      "name": "{TRNAME}Ratyy",
       "items": [
         "ITEM_FULL_RESTORE",
         "ITEM_FULL_RESTORE",
@@ -11601,7 +11616,7 @@
     {
       "type": "TRTYPE_MON_ITEM_MOVES",
       "class": "TRAINERCLASS_LEADER_BLUE",
-      "name": "{TRNAME}Blue",
+      "name": "{TRNAME}TTS-Chama",
       "items": [
         "ITEM_FULL_RESTORE",
         "ITEM_FULL_RESTORE",
@@ -13936,7 +13951,7 @@
         },
         {
           "type": "TRMSG_AFTER",
-          "message": "Swimming is very good for both\\nbeauty and health!\\rJust look at Misty, you\u2019ll see.\\n"
+          "message": "Swimming is very good for both\\nbeauty and health!\\rJust look at Agumii, you\u2019ll see.\\n"
         }
       ]
     },
@@ -14330,7 +14345,7 @@
         },
         {
           "type": "TRMSG_AFTER",
-          "message": "Hey, you! Trainer from Johto!\\rBrock is tough. He\u2019ll punish you if you\\ndon\u2019t take him seriously.\\n"
+          "message": "Hey, you! Trainer from Johto!\\rMalphon is tough. He\u2019ll punish you if you\\ndon\u2019t take him seriously.\\n"
         }
       ]
     },
@@ -15110,7 +15125,7 @@
       "messages": [
         {
           "type": "TRMSG_DBL_INTRO_1",
-          "message": "Jo: We protect Erika!\\r"
+          "message": "Jo: We protect Fythol!\\r"
         },
         {
           "type": "TRMSG_DBL_LOSE_1",
@@ -15118,7 +15133,7 @@
         },
         {
           "type": "TRMSG_DBL_AFTER_1",
-          "message": "Jo: Wow, you\u2019re about as strong as\\nErika, huh!"
+          "message": "Jo: Wow, you\u2019re about as strong as\\nFythol, huh!"
         },
         {
           "type": "TRMSG_DBL_1POKE_1",
@@ -15126,7 +15141,7 @@
         },
         {
           "type": "TRMSG_DBL_INTRO_2",
-          "message": "Zoe: We\u2019re going to protect Erika!\\r"
+          "message": "Zoe: We\u2019re going to protect Fythol!\\r"
         },
         {
           "type": "TRMSG_DBL_LOSE_2",
@@ -15615,15 +15630,15 @@
       "messages": [
         {
           "type": "TRMSG_INTRO",
-          "message": "You\u2019re here to defeat Lt. Surge?\\nNot if I can help it!\\r"
+          "message": "You\u2019re here to defeat Rurattee?\\nNot if I can help it!\\r"
         },
         {
           "type": "TRMSG_LOSE",
-          "message": "Sorry I failed you, Lt. Surge, sir!\\n"
+          "message": "Sorry I failed you, Rurattee, sir!\\n"
         },
         {
           "type": "TRMSG_AFTER",
-          "message": "When I was in the military, this is what\\nLt. Surge taught me...\\rLock the doors, watch out for fire,\\nand always have two electric fences\\ffor safety!\\n"
+          "message": "When I was in the military, this is what\\nRurattee taught me...\\rLock the doors, watch out for fire,\\nand always have two electric fences\\ffor safety!\\n"
         }
       ]
     },
@@ -16320,7 +16335,7 @@
       "messages": [
         {
           "type": "TRMSG_INTRO",
-          "message": "There\u2019s no way I can let some unknown\\nTrainer go straight to Erika!\\r"
+          "message": "There\u2019s no way I can let some unknown\\nTrainer go straight to Fythol!\\r"
         },
         {
           "type": "TRMSG_LOSE",
@@ -16328,7 +16343,7 @@
         },
         {
           "type": "TRMSG_AFTER",
-          "message": "I\u2019m too ashamed to face Erika!\\n"
+          "message": "I\u2019m too ashamed to face Fythol!\\n"
         }
       ]
     },
@@ -18031,7 +18046,7 @@
         },
         {
           "type": "TRMSG_AFTER",
-          "message": "Lt. Surge hid the electric fences\u2019\\nswitches at the bottom of something...\\rThere are two switches. Once you\u2019ve\\nfound the first, the second switch\\fshould be right next to it.\\n"
+          "message": "Rurattee hid the electric fences\u2019\\nswitches at the bottom of something...\\rThere are two switches. Once you\u2019ve\\nfound the first, the second switch\\fshould be right next to it.\\n"
         }
       ]
     },
@@ -18919,7 +18934,7 @@
         },
         {
           "type": "TRMSG_AFTER",
-          "message": "Karate King, the master of the Fighting\\nDojo, was just destroyed by Sabrina.\\n"
+          "message": "Karate King, the master of the Fighting\\nDojo, was just destroyed by Vivi.\\n"
         }
       ]
     },
@@ -30278,7 +30293,7 @@
         },
         {
           "type": "TRMSG_AFTER",
-          "message": "Misty says I have gotten much better\\nin the past few years.\\rBut there are still Trainers who are\\nstronger than me.\\n"
+          "message": "Agumii says I have gotten much better\\nin the past few years.\\rBut there are still Trainers who are\\nstronger than me.\\n"
         }
       ]
     },
@@ -33015,7 +33030,7 @@
     {
       "type": "TRTYPE_MON_ITEM_MOVES",
       "class": "TRAINERCLASS_LEADER_BROCK",
-      "name": "{TRNAME}Brock",
+      "name": "{TRNAME}Malphon",
       "items": [
         "ITEM_FULL_RESTORE",
         "ITEM_FULL_RESTORE",
@@ -33133,7 +33148,7 @@
     {
       "type": "TRTYPE_MON_ITEM_MOVES",
       "class": "TRAINERCLASS_LEADER_MISTY",
-      "name": "{TRNAME}Misty",
+      "name": "{TRNAME}Agumii",
       "items": [
         "ITEM_FULL_RESTORE",
         "ITEM_FULL_RESTORE",
@@ -33251,7 +33266,7 @@
     {
       "type": "TRTYPE_MON_ITEM_MOVES",
       "class": "TRAINERCLASS_LEADER_LT_SURGE",
-      "name": "{TRNAME}Lt. Surge",
+      "name": "{TRNAME}Rurattee",
       "items": [
         "ITEM_FULL_RESTORE",
         "ITEM_FULL_RESTORE",
@@ -33369,7 +33384,7 @@
     {
       "type": "TRTYPE_MON_ITEM_MOVES",
       "class": "TRAINERCLASS_LEADER_ERIKA",
-      "name": "{TRNAME}Erika",
+      "name": "{TRNAME}Fythol",
       "items": [
         "ITEM_FULL_RESTORE",
         "ITEM_FULL_RESTORE",
@@ -33487,7 +33502,7 @@
     {
       "type": "TRTYPE_MON_ITEM_MOVES",
       "class": "TRAINERCLASS_LEADER_JANINE",
-      "name": "{TRNAME}Janine",
+      "name": "{TRNAME}Inra",
       "items": [
         "ITEM_FULL_RESTORE",
         "ITEM_FULL_RESTORE",
@@ -33605,7 +33620,7 @@
     {
       "type": "TRTYPE_MON_ITEM_MOVES",
       "class": "TRAINERCLASS_LEADER_SABRINA",
-      "name": "{TRNAME}Sabrina",
+      "name": "{TRNAME}Vivi",
       "items": [
         "ITEM_FULL_RESTORE",
         "ITEM_FULL_RESTORE",
@@ -33723,7 +33738,7 @@
     {
       "type": "TRTYPE_MON_ITEM_MOVES",
       "class": "TRAINERCLASS_LEADER_BLAINE",
-      "name": "{TRNAME}Blaine",
+      "name": "{TRNAME}Ratyy",
       "items": [
         "ITEM_FULL_RESTORE",
         "ITEM_FULL_RESTORE",
@@ -33841,7 +33856,7 @@
     {
       "type": "TRTYPE_MON_ITEM_MOVES",
       "class": "TRAINERCLASS_LEADER_BLUE",
-      "name": "{TRNAME}Blue",
+      "name": "{TRNAME}TTS-Chama",
       "items": [
         "ITEM_FULL_RESTORE",
         "ITEM_FULL_RESTORE",

@@ -11046,7 +11046,7 @@
     {
       "type": "TRTYPE_MON_ITEM_MOVES",
       "class": "TRAINERCLASS_LEADER_LT_SURGE",
-      "name": "{TRNAME}Lt. Surge",
+      "name": "{TRNAME}Rurattee",
       "items": [
         "ITEM_FULL_RESTORE",
         "ITEM_FULL_RESTORE",
@@ -11060,13 +11060,13 @@
           "genderOverride": "TRPOKE_GENDER_OVERRIDE_OFF",
           "abilityOverride": "TRPOKE_ABILITY_OVERRIDE_OFF",
           "level": 51,
-          "species": "SPECIES_RAICHU",
-          "item": "ITEM_NONE",
+          "species": "SPECIES_SCEPTILE",
+          "item": "ITEM_POWER_HERB",
           "moves": [
-            "MOVE_THUNDER_WAVE",
-            "MOVE_QUICK_ATTACK",
-            "MOVE_SHOCK_WAVE",
-            "MOVE_DOUBLE_TEAM"
+            "MOVE_SOLAR_BEAM",
+            "MOVE_AGILITY",
+            "MOVE_ENERGY_BALL",
+            "MOVE_GIGA_DRAIN"
           ],
           "capsule": 0
         },

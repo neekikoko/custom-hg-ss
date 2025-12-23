@@ -30,6 +30,12 @@ scr_seq_0146_000:
 	play_se SEQ_SE_DP_SELECT
 	lockall
 	faceplayer
+	get_party_slot_with_move VAR_SPECIAL_RESULT, MOVE_CUT
+	compare VAR_SPECIAL_RESULT, 6
+	goto_if_eq _009E
+	check_badge BADGE_HIVE, VAR_SPECIAL_RESULT
+	compare VAR_SPECIAL_RESULT, 0
+	goto_if_eq _009E
 	npc_msg msg_0211_00000
 	touchscreen_menu_hide
 	getmenuchoice VAR_SPECIAL_RESULT
@@ -173,6 +179,13 @@ scr_seq_0146_001:
 	play_se SEQ_SE_DP_SELECT
 	lockall
 	faceplayer
+	get_party_slot_with_move VAR_SPECIAL_RESULT, MOVE_ROCK_SMASH
+	copyvar VAR_SPECIAL_x8004, VAR_SPECIAL_RESULT
+	compare VAR_SPECIAL_RESULT, 6
+	goto_if_eq _02D7
+	check_badge BADGE_ZEPHYR, VAR_SPECIAL_RESULT
+	compare VAR_SPECIAL_RESULT, 0
+	goto_if_eq _02D7
 	npc_msg msg_0211_00003
 	touchscreen_menu_hide
 	getmenuchoice VAR_SPECIAL_RESULT
@@ -333,6 +346,12 @@ scr_seq_0146_002:
 	goto _093D
 
 _051C:
+	get_party_slot_with_move VAR_SPECIAL_RESULT, MOVE_STRENGTH
+	compare VAR_SPECIAL_RESULT, 6
+	goto_if_eq _0564
+	check_badge BADGE_PLAIN, VAR_SPECIAL_RESULT
+	compare VAR_SPECIAL_RESULT, 0
+	goto_if_eq _0564
 	npc_msg msg_0211_00007
 	touchscreen_menu_hide
 	getmenuchoice VAR_SPECIAL_RESULT
@@ -485,6 +504,15 @@ _0736:
 scr_seq_0146_003:
 	play_se SEQ_SE_DP_SELECT
 	lockall
+	get_party_slot_with_move VAR_SPECIAL_RESULT, MOVE_ROCK_CLIMB
+	compare VAR_SPECIAL_RESULT, 6
+	goto_if_eq _0797
+	check_badge BADGE_EARTH, VAR_SPECIAL_RESULT
+	compare VAR_SPECIAL_RESULT, 0
+	goto_if_eq _0797
+	check_escort_mode VAR_SPECIAL_RESULT
+	compare VAR_SPECIAL_RESULT, 1
+	goto_if_eq _07A6
 	npc_msg msg_0211_00020
 	touchscreen_menu_hide
 	getmenuchoice VAR_SPECIAL_RESULT
@@ -532,6 +560,9 @@ scr_seq_0146_010:
 scr_seq_0146_004:
 	play_se SEQ_SE_DP_SELECT
 	lockall
+	check_escort_mode VAR_SPECIAL_RESULT
+	compare VAR_SPECIAL_RESULT, 1
+	goto_if_eq _0826
 	npc_msg msg_0211_00014
 	touchscreen_menu_hide
 	getmenuchoice VAR_SPECIAL_RESULT
@@ -644,6 +675,12 @@ _0945:
 scr_seq_0146_005:
 	play_se SEQ_SE_DP_SELECT
 	lockall
+	get_party_slot_with_move VAR_SPECIAL_RESULT, MOVE_WATERFALL
+	compare VAR_SPECIAL_RESULT, 6
+	goto_if_eq _0997
+	check_badge BADGE_RISING, VAR_SPECIAL_RESULT
+	compare VAR_SPECIAL_RESULT, 0
+	goto_if_eq _0997
 	npc_msg msg_0211_00024
 	touchscreen_menu_hide
 	getmenuchoice VAR_SPECIAL_RESULT
@@ -686,6 +723,12 @@ scr_seq_0146_012:
 scr_seq_0146_016:
 	play_se SEQ_SE_DP_SELECT
 	lockall
+	get_party_slot_with_move VAR_SPECIAL_RESULT, MOVE_WHIRLPOOL
+	compare VAR_SPECIAL_RESULT, 6
+	goto_if_eq _0A34
+	check_badge BADGE_GLACIER, VAR_SPECIAL_RESULT
+	compare VAR_SPECIAL_RESULT, 0
+	goto_if_eq _0A34
 	npc_msg msg_0211_00029
 	touchscreen_menu_hide
 	getmenuchoice VAR_SPECIAL_RESULT
@@ -732,6 +775,9 @@ scr_seq_0146_014:
 	play_se SEQ_SE_DP_SELECT
 	lockall
 	faceplayer
+	get_party_slot_with_move VAR_SPECIAL_RESULT, MOVE_HEADBUTT
+	compare VAR_SPECIAL_RESULT, 6
+	goto_if_eq _0AC2
 	npc_msg msg_0211_00032
 	touchscreen_menu_hide
 	getmenuchoice VAR_SPECIAL_RESULT

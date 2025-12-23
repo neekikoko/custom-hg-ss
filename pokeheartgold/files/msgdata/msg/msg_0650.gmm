@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0650_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Misty</language>
+		<language name="English">Agumii</language>
 	</row>
 	<row id="msg_0650_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -42,7 +42,7 @@
 	</row>
 	<row id="msg_0650_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yes, this is Misty...\nHi, how are you?\r</language>
+		<language name="English">Yes, this is Agumii...\nHi, how are you?\r</language>
 	</row>
 	<row id="msg_0650_00011" index="11">
 		<attribute name="window_context_name">used</attribute>

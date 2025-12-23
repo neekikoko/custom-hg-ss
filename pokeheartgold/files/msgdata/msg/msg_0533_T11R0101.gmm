@@ -106,11 +106,11 @@
 	</row>
 	<row id="msg_0533_T11R0101_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Misty: So here you are...\nDon’t make me wait!\rI’ve heard a lot of good things\nabout you since our last battle.\rLet me test how good you are!\r</language>
+		<language name="English">Agumii: So here you are...\nDon’t make me wait!\rI’ve heard a lot of good things\nabout you since our last battle.\rLet me test how good you are!\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Misty: Wow!\nYou are getting stronger by\fthe battle!</language>
+		<language name="English">Agumii: Wow!\nYou are getting stronger by\fthe battle!</language>
 	</row>
 	<row id="msg_0533_T11R0101_00028" index="28">
 		<attribute name="window_context_name">used</attribute>

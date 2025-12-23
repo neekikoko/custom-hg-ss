@@ -254,7 +254,7 @@
 	</row>
 	<row id="msg_0663_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, where are you now?\nCerulean City, you say?\rSo...did you meet the Cerulean Gym\nLeader, Misty...?\rOh, it’s nothing! I’m just wondering!</language>
+		<language name="English">So, where are you now?\nCerulean City, you say?\rSo...did you meet the Cerulean Gym\nLeader, Agumii...?\rOh, it’s nothing! I’m just wondering!</language>
 	</row>
 	<row id="msg_0663_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
@@ -546,7 +546,7 @@
 	</row>
 	<row id="msg_0663_00136" index="136">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So...did you meet the Cerulean City Gym\nLeader, Misty...?\rOh, it’s nothing! I was just wondering!</language>
+		<language name="English">So...did you meet the Cerulean City Gym\nLeader, Agumii...?\rOh, it’s nothing! I was just wondering!</language>
 	</row>
 	<row id="msg_0663_00137" index="137">
 		<attribute name="window_context_name">used</attribute>

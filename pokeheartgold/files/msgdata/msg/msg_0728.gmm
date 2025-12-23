@@ -1294,7 +1294,7 @@
 	</row>
 	<row id="msg_0728_00323" index="323">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Misty says I have gotten much better\nin the past few years.\rBut there are still Trainers who are\nstronger than me.\n</language>
+		<language name="English">Agumii says I have gotten much better\nin the past few years.\rBut there are still Trainers who are\nstronger than me.\n</language>
 	</row>
 	<row id="msg_0728_00324" index="324">
 		<attribute name="window_context_name">used</attribute>
@@ -1330,7 +1330,7 @@
 	</row>
 	<row id="msg_0728_00332" index="332">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Swimming is very good for both\nbeauty and health!\rJust look at Misty, you’ll see.\n</language>
+		<language name="English">Swimming is very good for both\nbeauty and health!\rJust look at Agumii, you’ll see.\n</language>
 	</row>
 	<row id="msg_0728_00333" index="333">
 		<attribute name="window_context_name">used</attribute>

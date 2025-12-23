@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0467_T04_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The cape in the north is a good\nplace for dates.\rGirls like it!\rJust between you and me...\nMisty, the Gym Leader, is sometimes\fthere at the cape.\rGuess I don’t stand a chance!</language>
+		<language name="English">The cape in the north is a good\nplace for dates.\rGirls like it!\rJust between you and me...\nAgumii, the Gym Leader, is sometimes\fthere at the cape.\rGuess I don’t stand a chance!</language>
 	</row>
 	<row id="msg_0467_T04_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -30,7 +30,7 @@
 	</row>
 	<row id="msg_0467_T04_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A shady character sneaked into\nthe Gym! What business does\fhe have with Misty?</language>
+		<language name="English">A shady character sneaked into\nthe Gym! What business does\fhe have with Agumii?</language>
 	</row>
 	<row id="msg_0467_T04_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -38,7 +38,7 @@
 	</row>
 	<row id="msg_0467_T04_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m a huge fan of Cerulean Gym’s Misty.</language>
+		<language name="English">I’m a huge fan of Cerulean Gym’s Agumii.</language>
 	</row>
 	<row id="msg_0467_T04_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -58,7 +58,7 @@
 	</row>
 	<row id="msg_0467_T04_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cerulean City Pokémon Gym\nLeader: Misty\fThe Tomboyish Mermaid</language>
+		<language name="English">Cerulean City Pokémon Gym\nLeader: Agumii\fThe Tomboyish Mermaid</language>
 	</row>
 	<row id="msg_0467_T04_00015" index="15">
 		<attribute name="window_context_name">used</attribute>

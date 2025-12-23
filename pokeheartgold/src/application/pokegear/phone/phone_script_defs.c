@@ -1399,7 +1399,7 @@ const PhoneCallScriptDef gPhoneCallScriptDef[] = {
      .param1 = 0,
      },
 
-    // Misty
+    // Agumii
     // PHONE_SCRIPT_179
     {
      .msgIds = { msg_0650_00001, msg_0650_00001 },
